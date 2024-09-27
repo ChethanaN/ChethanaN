@@ -1,3 +1,4 @@
+![logo](https://github.com/ChethanaN/ChethanaN/blob/main/BANNER.png)
 <h1 align="center" style="font-size: 4em; color: #ff4081; text-shadow: 0 0 10px #ff4081, 0 0 20px #ff4081, 0 0 30px #ff4081;">✨ Welcome to My Profile! ✨</h1>
 <h2 align="center" style="font-size: 3.5em; color: #3f51b5; text-shadow: 0 0 5px #3f51b5, 0 0 10px #3f51b5;">I am <strong style="color: #ffeb3b; text-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b;">CHETHANA N</strong></h2>
 <h3 align="center" style="font-size: 2em; color: #9c27b0; text-shadow: 0 0 5px #9c27b0, 0 0 10px #9c27b0;">A Passionate Developer and Analyst</h3>
